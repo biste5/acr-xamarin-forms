@@ -1,12 +1,10 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using CoreGraphics;
-using System.Collections.Generic;
-using UIKit;
-using Xamarin.Forms.Platform.iOS;
 using Foundation;
-
+using UIKit;
 
 namespace Acr.XamForms.SignaturePad.iOS {
 

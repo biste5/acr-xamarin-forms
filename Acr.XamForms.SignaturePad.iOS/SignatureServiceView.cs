@@ -1,7 +1,6 @@
-using System;
 using CoreGraphics;
 using UIKit;
-using NativeView = global::SignaturePad.SignaturePadView;
+using NativeView = SignaturePad.SignaturePadView;
 
 
 namespace Acr.XamForms.SignaturePad.iOS {

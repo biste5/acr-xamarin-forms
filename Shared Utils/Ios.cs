@@ -1,8 +1,6 @@
 #if __IOS__
-using System;
 using System.Linq;
 using UIKit;
-
 
 namespace Acr.XamForms {
     

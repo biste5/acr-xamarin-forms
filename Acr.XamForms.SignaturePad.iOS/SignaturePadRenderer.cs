@@ -1,12 +1,11 @@
 using System;
 using System.ComponentModel;
-using CoreGraphics;
 using System.Linq;
 using Acr.XamForms.SignaturePad;
 using Acr.XamForms.SignaturePad.iOS;
+using CoreGraphics;
 using UIKit;
 using Xamarin.Forms;
-using Xamarin.Forms.Platform.iOS;
 using NativeView = SignaturePad.SignaturePadView;
 
 [assembly: ExportRenderer(typeof(SignaturePadView), typeof(SignaturePadRenderer))]
